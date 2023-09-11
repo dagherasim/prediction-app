@@ -1,0 +1,9 @@
+torch
+numpy
+scipy
+flask
+pandas
+keras
+joblib
+tensorflow
+scikit-learn
